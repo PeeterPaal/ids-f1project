@@ -15,6 +15,7 @@ If we have leftover time after working on the main 2 goals, also try to find way
 
 
 Links:
+
 [1] https://ergast.com/mrd/db/#csv  
 
 [2] https://www.kaggle.com/cjgdev/formula-1-race-data-19502017
