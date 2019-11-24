@@ -6,12 +6,13 @@
 
 
  ### Goals for this project:
- - Goal 1: Gather some interesting data from 2012 season - one of the most interesting and even seasons in recent history.
+ - Goal 1: Compare F1 lap times from 2004 to 2018 at frequently raced tracks (11 or more times)
+ 
+ - Goal 2: Predict the race winner among top 6 drivers based on data from the race and qualifying (except for the finishing positions and points)
+ 
+ - Goal 3: Gather some interesting data from 2012 season - one of the most interesting and even seasons in recent history.
 
- - Goal 2: Compare two of the sports most successful racers - Michael Schumacher and Lewis Hamilton.
-
-
-If we have leftover time after working on the main 2 goals, also try to find ways to predict future results (qualifying, race etc.).
+ - Goal 4: Compare two of the sports most successful racers - Michael Schumacher and Lewis Hamilton.
 
 
 ### Links:
