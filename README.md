@@ -22,4 +22,4 @@
 [2] https://www.kaggle.com/cjgdev/formula-1-race-data-19502017
 
 ### How to view and run the project:
-The project code which generates graphs and other results in a Jupyter Notebook file 'F1_Analysis.ipynb', meaning it's best ran with Jupyter notebook. Inside the notebook there are headers, text paragraphs, and comments which further explain what we are trying to achieve and how the code works.
+The project code which generates graphs and other results is in a Jupyter Notebook file 'F1_Analysis.ipynb', meaning it's best ran with Jupyter notebook. Inside the notebook there are headers, text paragraphs, and comments which further explain what we are trying to achieve and how the code works.
